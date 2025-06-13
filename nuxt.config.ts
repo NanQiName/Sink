@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: 'https://www.cnurl.fun/dashboard',
+    homeURL: 'https://cnurl.fun/dashboard',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
