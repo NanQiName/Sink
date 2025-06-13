@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: '',
+    homeURL: 'https://cnurl.fun',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
@@ -118,7 +118,7 @@ export default defineNuxtConfig({
       redirectOn: 'root',
     },
     baseUrl: '/',
-    defaultLocale: 'en-US',
+    defaultLocale: 'zh-CN',
   },
 
   shadcn: {
